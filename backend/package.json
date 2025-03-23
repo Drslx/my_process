@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./main.js"
+  },
+  "keywords": [],
+  "author": "Drslx",
+  "license": "ISC",
+  "description": "create process inject",
+  "devDependencies": {
+    "express": "^4.21.2",
+    "logger": "^0.0.1",
+    "mongoose": "^8.11.0",
+    "nodemon": "^3.1.9"
+  }
+}

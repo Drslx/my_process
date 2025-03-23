@@ -1,0 +1,11 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar a pasta node_modules
+node_modules
+
+# Ignorar arquivos de ambiente
+*.env
+
+# Ignorar diretórios específicos 
+/.vscode

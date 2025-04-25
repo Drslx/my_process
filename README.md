@@ -1,5 +1,5 @@
 Detalhamento dos Diretórios:
-Backend:
+Backend: npm install 
 # controllers/: Contém os controladores que gerenciam a lógica de negócios das rotas.
 
 # models/: Contém os modelos de dados (ex.: modelos do banco de dados).
@@ -12,7 +12,7 @@ Backend:
 
 # config/: Contém arquivos de configuração (ex.: configuração do banco de dados, variáveis de ambiente).
 
-Frontend:
+Frontend: npm install
 # public/: Contém arquivos estáticos (HTML, CSS, JS) que serão servidos diretamente.
 
 # src/: Contém o código fonte do frontend.

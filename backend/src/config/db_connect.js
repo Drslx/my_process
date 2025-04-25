@@ -1,6 +1,7 @@
 //require("dotenv").config()
 const mongoose = require("mongoose");
 
+// Refatorar para variáveis de ambiente
 const DB_USER = "drslxprogramador";
 const DB_PASS = encodeURIComponent("wG9hgpAFpKBSTiV2");
 const url = `mongodb+srv://${DB_USER}:${DB_PASS}@cluster0.3zo65.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
